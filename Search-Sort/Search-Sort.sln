@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary Search Iterative", "..\Binary Search Iterative\Binary Search Iterative.vcxproj", "{8588F332-911D-44C0-8A5B-CF236A87858B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MergeSort", "..\MergeSort\MergeSort.vcxproj", "{A1CAC8D7-3B64-4E9F-BEB0-8BFFCDBB19E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8588F332-911D-44C0-8A5B-CF236A87858B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8588F332-911D-44C0-8A5B-CF236A87858B}.Debug|Win32.Build.0 = Debug|Win32
+		{8588F332-911D-44C0-8A5B-CF236A87858B}.Release|Win32.ActiveCfg = Release|Win32
+		{8588F332-911D-44C0-8A5B-CF236A87858B}.Release|Win32.Build.0 = Release|Win32
+		{A1CAC8D7-3B64-4E9F-BEB0-8BFFCDBB19E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1CAC8D7-3B64-4E9F-BEB0-8BFFCDBB19E5}.Debug|Win32.Build.0 = Debug|Win32
+		{A1CAC8D7-3B64-4E9F-BEB0-8BFFCDBB19E5}.Release|Win32.ActiveCfg = Release|Win32
+		{A1CAC8D7-3B64-4E9F-BEB0-8BFFCDBB19E5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
