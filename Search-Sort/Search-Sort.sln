@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MergeSort", "..\MergeSort\M
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Heap Sort", "Heap Sort\Heap Sort.vcxproj", "{AE5EA89C-600F-41D7-8342-4A214E9E6ADF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quick Sort", "..\Quick Sort\Quick Sort.vcxproj", "{C6605FAE-0D10-40FB-82FE-9DEBE4759E47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -25,6 +27,10 @@ Global
 		{AE5EA89C-600F-41D7-8342-4A214E9E6ADF}.Debug|Win32.Build.0 = Debug|Win32
 		{AE5EA89C-600F-41D7-8342-4A214E9E6ADF}.Release|Win32.ActiveCfg = Release|Win32
 		{AE5EA89C-600F-41D7-8342-4A214E9E6ADF}.Release|Win32.Build.0 = Release|Win32
+		{C6605FAE-0D10-40FB-82FE-9DEBE4759E47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C6605FAE-0D10-40FB-82FE-9DEBE4759E47}.Debug|Win32.Build.0 = Debug|Win32
+		{C6605FAE-0D10-40FB-82FE-9DEBE4759E47}.Release|Win32.ActiveCfg = Release|Win32
+		{C6605FAE-0D10-40FB-82FE-9DEBE4759E47}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
