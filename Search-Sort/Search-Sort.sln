@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Heap Sort", "Heap Sort\Heap
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quick Sort", "..\Quick Sort\Quick Sort.vcxproj", "{C6605FAE-0D10-40FB-82FE-9DEBE4759E47}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Counting Sort", "..\Counting Sort\Counting Sort.vcxproj", "{0F78221C-43CF-4E09-AD1D-BBEFB228C23E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "K Closet elements", "..\K Closet elements\K Closet elements.vcxproj", "{915EC61F-08D6-4E08-9032-566F9D71A59A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +35,14 @@ Global
 		{C6605FAE-0D10-40FB-82FE-9DEBE4759E47}.Debug|Win32.Build.0 = Debug|Win32
 		{C6605FAE-0D10-40FB-82FE-9DEBE4759E47}.Release|Win32.ActiveCfg = Release|Win32
 		{C6605FAE-0D10-40FB-82FE-9DEBE4759E47}.Release|Win32.Build.0 = Release|Win32
+		{0F78221C-43CF-4E09-AD1D-BBEFB228C23E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F78221C-43CF-4E09-AD1D-BBEFB228C23E}.Debug|Win32.Build.0 = Debug|Win32
+		{0F78221C-43CF-4E09-AD1D-BBEFB228C23E}.Release|Win32.ActiveCfg = Release|Win32
+		{0F78221C-43CF-4E09-AD1D-BBEFB228C23E}.Release|Win32.Build.0 = Release|Win32
+		{915EC61F-08D6-4E08-9032-566F9D71A59A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{915EC61F-08D6-4E08-9032-566F9D71A59A}.Debug|Win32.Build.0 = Debug|Win32
+		{915EC61F-08D6-4E08-9032-566F9D71A59A}.Release|Win32.ActiveCfg = Release|Win32
+		{915EC61F-08D6-4E08-9032-566F9D71A59A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
